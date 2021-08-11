@@ -10,13 +10,16 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: "#d4d4d4"
+    color: ""
 ---
-In recent years, I have been teaching in the following courses:
+In recent years, I have taught in the following courses:
 
-* Deep Learning Algorithms
-* Model Thinking
-* Advanced Seminar on Disinformation and Hate Speech in Digital Platforms
-* Seminar on Machine Learning for Graphs
-* Computational Linear Algebra
-* Numerical Analysis
+Graduate-level:
+* **Deep Learning Algorithms:** Fall{2019,2021}
+* **Model Thinking:** Fall{2017,2018,2019}
+* **Seminar on Disinformation and Hate Speech in Digital Platforms:** Fall2021
+* **Seminar on Machine Learning for Graphs:** Spring2019
+
+Undergraduate-level:
+* **Computational Linear Algebra:** {Spring,Fall}{2019,2020,2021}
+* **Numerical Analysis:** {Spring,Fall}{2017,2018,2020}, Spring2021
