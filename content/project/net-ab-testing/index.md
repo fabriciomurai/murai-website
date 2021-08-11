@@ -15,10 +15,10 @@ external_link: ""
 authors: [Fabricio Murai, Bruno Demattos Nogueira, Francisco Galuppo Azevedo]
 
 image:
-  caption: Parallel epsilon-net.
+  caption: Parallel epsilon-net
   focal_point: Smart
   filename: net-ab-testing.png
-  preview_only: true
+  preview_only: false
 
 
 links:
