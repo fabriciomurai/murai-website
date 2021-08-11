@@ -16,7 +16,7 @@ image:
   caption: Parallel epsilon-net.
   focal_point: Smart
   filename: net-ab-testing.png
-#  preview_only: true
+  preview_only: true
 
 
 links:
