@@ -39,10 +39,10 @@ education:
     - course: MSc in Computer Science
       institution: University of Massachusetts Amherst
       year: 2014
-    - course: MSc in Systems and Computer Engineering
+    - course: MSc in Systems and Comp. Engineering
       institution: COPPE - Universidade Federal do Rio de Janeiro
       year: 2009
-    - course: BSc in Computer Science (magna cum laude)
+    - course: BSc in Computer Science
       institution: Universidade Federal do Rio de Janeiro
       year: 2007
 email: murai@dcc.ufmg.br
