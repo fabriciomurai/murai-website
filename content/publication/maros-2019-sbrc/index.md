@@ -6,14 +6,13 @@ subtitle: ''
 summary: ''
 authors:
 - Alexandre Maros
-- Jussara M. Almeida
-- n̆derlineFabricio Murai
-- Ana Paula C. Silva
-tags:
-- '""'
+- Jussara Almeida
+- Fabricio Murai
+- Ana Paula Couto da Silva
+tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-11T12:54:05-03:00
+lastmod: 2021-08-11T15:11:24-03:00
 featured: false
 draft: false
 
@@ -31,10 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:05.668764Z'
+publishDate: '2021-08-11T18:11:24.267109Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Anais do XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas
-  Distribuídos (SBRC)*'
+  Distribuídos*'
+url_pdf: https://sol.sbc.org.br/index.php/sbrc/article/view/7360
+doi: 10.5753/sbrc.2019.7360
 ---

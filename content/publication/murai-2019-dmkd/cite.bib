@@ -1,0 +1,14 @@
+@article{murai2019dmkd,
+ abstract = {Active search on graphs focuses on collecting certain labeled nodes (targets) given global knowledge of the network topology and its edge weights (encoding pairwise similarities) under a query budget constraint. However, in most current networks, nodes, network topology, network size, and edge weights are all initially unknown. In this work we introduce selective harvesting, a variant of active search where the next node to be queried must be chosen among the neighbors of the current queried node set; the available training data for deciding which node to query is restricted to the subgraph induced by the queried set (and their node attributes) and their neighbors (without any node or edge attributes). Therefore, selective harvesting is a sequential decision problem, where we must decide which node to query at each step. A classifier trained in this scenario can suffer from what we call a tunnel vision effect: without any recourse to independent sampling, the urge to only query promising nodes forces classifiers to gather increasingly biased training data, which we show significantly hurts the performance of active search methods and standard classifiers. We demonstrate that it is possible to collect a much larger set of targets by using multiple classifiers, not by combining their predictions as a weighted ensemble, but switching between classifiers used at each step, as a way to ease the tunnel vision effect. We discover that switching classifiers collects more targets by (a) diversifying the training data and (b) broadening the choices of nodes that can be queried in the future. This highlights an exploration, exploitation, and diversification trade-off in our problem that goes beyond the exploration and exploitation duality found in classic sequential decision problems. Based on these observations we propose D$$^3$$TS, a method based on multi-armed bandits for non-stationary stochastic processes that enforces classifier diversity, which outperforms all competing methods on five real network datasets in our evaluation and exhibits comparable performance on the other two.},
+ author = {Murai, Fabricio and Rennó, Diogo and Ribeiro, Bruno and Pappa, Gisele L and Towsley, Don and Gile, Krista},
+ doi = {10.1007/s10618-017-0523-0},
+ issn = {1573-756X},
+ journal = {Data Mining and Knowledge Discovery},
+ number = {1},
+ pages = {187--217},
+ title = {Selective harvesting over networks},
+ url = {https://doi.org/10.1007/s10618-017-0523-0},
+ volume = {32},
+ year = {2018}
+}
+

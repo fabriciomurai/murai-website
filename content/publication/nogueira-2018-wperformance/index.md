@@ -6,14 +6,14 @@ title: Análise de Algoritmos de Clusterização para Experimentos Randomizados 
 subtitle: ''
 summary: ''
 authors:
-- Bruno Nogueira
-- n̆derlineFabricio Murai
-- Ana Paula Couto da Silva
-- Francisco Azevedo
+- Bruno Demattos Nogueira
+- Francisco Galuppo Azevedo
+- Fabricio Murai
+- Ana Paula Couto Da Silva
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2021-08-11T12:54:07-03:00
+lastmod: 2021-08-11T15:11:21-03:00
 featured: false
 draft: false
 
@@ -31,9 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:06.940349Z'
+publishDate: '2021-08-11T18:11:21.496476Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*CSBC 2018 - 17º WPerformance*'
+publication: '*Anais do Workshop em Desempenho de Sistemas Computacionais e de Comunicação
+  (WPerformance)*'
+url_pdf: https://sol.sbc.org.br/index.php/wperformance/article/view/3329
+doi: 10.5753/wperformance.2018.3329
 ---

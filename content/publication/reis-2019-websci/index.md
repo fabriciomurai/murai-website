@@ -7,17 +7,17 @@ summary: ''
 authors:
 - Julio C. S. Reis
 - André Correia
-- n̆derlineFabricio Murai
+- Fabrício Murai
 - Adriano Veloso
-- Fabrício Benevenuto
+- Fabŗ́io Benevenuto
 tags:
-- '"fake news"'
-- '"civic reasoning"'
-- '"features"'
-- '"social media"'
+- '"Civic Reasoning"'
+- '"Fake News"'
+- '"Features"'
+- '"Social Media"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-11T12:54:06-03:00
+lastmod: 2021-08-11T15:11:26-03:00
 featured: false
 draft: false
 
@@ -35,11 +35,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:05.845551Z'
+publishDate: '2021-08-11T18:11:26.100190Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*Proceedings of the 10th ACM Conference on Web Science*'
-url_pdf: https://doi.org/10.1145/3292522.3326027
+abstract: '© 2019 Association for Computing Machinery. Recently, there have been many
+  research efforts aiming to understand fake news phenomena and to identify typical
+  patterns and features of fake news. Yet, the real discriminating power of these
+  features is still unknown: some are more general, but others perform well only with
+  specific data. In this work, we conduct a highly exploratory investigation that
+  produced hundreds of thousands of models from a large and diverse set of features.
+  These models are unbiased in the sense that their features are randomly chosen from
+  the pool of available features. While the vast majority of models are ineffective,
+  we were able to produce a number of models that yield highly accurate decisions,
+  thus effectively separating fake news from actual stories. Specifically, we focused
+  our analysis on models that rank a randomly chosen fake news story higher than a
+  randomly chosen fact with more than 0.85 probability. For these models we found
+  a strong link between features and model predictions, showing that some features
+  are clearly tailored for detecting certain types of fake news, thus evidencing that
+  different combinations of features cover a specific region of the fake news space.
+  Finally, we present an explanation of factors contributing to model decisions, thus
+  promoting civic reasoning by complementing our ability to evaluate digital content
+  and reach warranted conclusions.'
+publication: "*Proceedings of the 10th ACM Conference on Web Science - WebSci '19*"
+url_pdf: http://dl.acm.org/citation.cfm?doid=3292522.3326027
 doi: 10.1145/3292522.3326027
 ---

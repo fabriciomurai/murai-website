@@ -2,18 +2,17 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'SEMPLICe: Um Modelo Sequencial de Proficiência em Comunidades Online para
-  Aprendizado de Idioma'
+  Aprendizado de Idioma ∗'
 subtitle: ''
 summary: ''
 authors:
 - Rafael Medina
-- Ana Paula C. da Silva
-- n̆derlineFabricio Murai
-tags:
-- '""'
+- Ana da Silva
+- Fabricio Murai
+tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-11T12:54:06-03:00
+lastmod: 2021-08-11T15:11:24-03:00
 featured: false
 draft: false
 
@@ -31,11 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:06.395405Z'
+publishDate: '2021-08-11T18:11:23.967024Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Anais do VIII Workshop Brasileiro de Análise de Redes Sociais e Mineração
-  (BraSNAM)*'
+publication: '*Anais do VIII Brazilian Workshop on Social Network Analysis and Mining*'
 url_pdf: https://sol.sbc.org.br/index.php/brasnam/article/view/6548
+doi: 10.5753/brasnam.2019.6548
 ---

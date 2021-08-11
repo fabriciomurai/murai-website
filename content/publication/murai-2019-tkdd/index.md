@@ -6,7 +6,7 @@ title: Characterizing Directed and Undirected Networks via Multidimensional Walk
 subtitle: ''
 summary: ''
 authors:
-- n̆derlineFabricio Murai
+- Fabricio Murai
 - Bruno Ribeiro
 - Don Towlsey
 - Pinghui Wang
@@ -17,7 +17,7 @@ tags:
 - '"random walks"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-11T12:54:04-03:00
+lastmod: 2021-08-11T15:11:25-03:00
 featured: false
 draft: false
 
@@ -35,11 +35,33 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:04.231147Z'
+publishDate: '2021-08-11T18:11:25.178085Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: Estimating distributions of node characteristics (labels) such as number
+  of connections or citizenship of users in a social network via edge and node sampling
+  is a vital part of the study of complex networks. Due to its low cost, sampling
+  via a random walk (RW) has been proposed as an attractive solution to this task.
+  Most RW methods assume either that the network is undirected or that walkers can
+  traverse edges regardless of their direction. Some RW methods have been designed
+  for directed networks where edges coming into a node are not directly observable.
+  In this work, we propose Directed Unbiased Frontier Sampling (DUFS), a sampling
+  method based on a large number of coordinated walkers, each starting from a node
+  chosen uniformly at random. It applies to directed networks with invisible incoming
+  edges because it constructs, in real time, an undirected graph consistent with the
+  walkers trajectories, and its use of random jumps to prevent walkers from being
+  trapped. DUFS generalizes previous RW methods and is suited for undirected networks
+  and to directed networks regardless of in-edge visibility. We also propose an improved
+  estimator of node label distribution that combines information from initial walker
+  locations with subsequent RW observations. We evaluate DUFS, compare it to other
+  RW methods, investigate the impact of its parameters on estimation accuracy and
+  provide practical guidelines for choosing them. In estimating out-degree distributions,
+  DUFS yields significantly better estimates of the head of the distribution than
+  other methods, while matching or exceeding estimation accuracy of the tail. Last,
+  we show that DUFS outperforms uniform sampling when estimating distributions of
+  node labels of the top 10% largest degree nodes, even when sampling a node uniformly
+  has the same cost as RW steps.
 publication: '*ACM Trans. Knowl. Discov. Data*'
-url_pdf: http://doi.acm.org/10.1145/3299877
+url_pdf: https://doi.org/10.1145/3299877
 doi: 10.1145/3299877
 ---

@@ -5,19 +5,13 @@ title: 'Online Social Networks in Health Care: A Study of Mental Disorders on Re
 subtitle: ''
 summary: ''
 authors:
-- B. Silveira Fraga
-- A. P. Couto da Silva
-- n̆derlineF. Murai
-tags:
-- '"health care;Internet;medical computing;medical disorders;social aspects of automation;social
-  networking (online);Online Social Networks;mental health disorders;Reddit online
-  communities;health care;mental disorders;public health problems;mental health conditions;OSN;face-to-face
-  clinical interventions;Social network services;Diseases;Mental disorders;Measurement;Public
-  healthcare;Buildings;mental health disorders"'
-- '"Online Social Networks;content analysis"'
+- Bárbara Silveira Fraga
+- Ana Paula da Silva
+- Fabricio Murai
+tags: []
 categories: []
-date: '2018-12-01'
-lastmod: 2021-08-11T12:54:08-03:00
+date: '2018-01-01'
+lastmod: 2021-08-11T15:11:21-03:00
 featured: false
 draft: false
 
@@ -35,10 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:08.008665Z'
+publishDate: '2021-08-11T18:11:21.058218Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI-IAT)*'
+publication: '*2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI)*'
 doi: 10.1109/WI.2018.00-36
 ---

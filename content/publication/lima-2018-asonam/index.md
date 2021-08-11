@@ -6,21 +6,17 @@ title: 'Inside the Right-Leaning Echo Chambers: Characterizing Gab, an Unmoderat
 subtitle: ''
 summary: ''
 authors:
-- L. Lima
-- J. C. S. Reis
-- P. Melo
-- n̆derlineF. Murai
-- L. Araujo
-- P. Vikatos
-- F. Benevenuto
-tags:
-- '"information dissemination;politics;social networking (online);hate speech policy;politically
-  oriented system;social networks;unmoderated social system;social media systems;social
-  network system;free speech;right-leaning echo chambers;Gab;news dissemination;Twitter;Facebook;YouTube;Google;Law;Data
-  collection;Gab;Social Media;Echo Chambers;News Sharing;Online News"'
+- Lucas Lima
+- Julio C S Reis
+- Philipe Melo
+- Fabricio Murai
+- Leandro Araujo
+- Pantelis Vikatos
+- Fabricio Benevenuto
+tags: []
 categories: []
-date: '2018-08-01'
-lastmod: 2021-08-11T12:54:07-03:00
+date: '2018-01-01'
+lastmod: 2021-08-11T15:11:22-03:00
 featured: false
 draft: false
 
@@ -38,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:07.658047Z'
+publishDate: '2021-08-11T18:11:21.825760Z'
 publication_types:
 - '1'
 abstract: ''

@@ -6,13 +6,13 @@ title: 'Análise das Interações Sociais em Comunidades Online de Aprendizado d
 subtitle: ''
 summary: ''
 authors:
-- Rafael Sales Medina Ferreira
+- Rafael Sales Medina
 - Ana Paula Couto da Silva
-- n̆derlineFabricio Murai
+- Fabricio Murai
 tags: []
 categories: []
-date: '2018-07-01'
-lastmod: 2021-08-11T12:54:06-03:00
+date: '2018-01-01'
+lastmod: 2021-08-11T15:11:23-03:00
 featured: false
 draft: false
 
@@ -30,10 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:06.761779Z'
+publishDate: '2021-08-11T18:11:22.752277Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Anais do VII Workshop Brasileiro de Análise de Redes Sociais e Mineração
-  (BraSNAM)*'
+publication: '*Anais do VII Brazilian Workshop on Social Network Analysis and Mining*'
+url_pdf: https://sol.sbc.org.br/index.php/brasnam/article/view/3576
+doi: 10.5753/brasnam.2018.3576
 ---

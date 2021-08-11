@@ -8,11 +8,10 @@ summary: ''
 authors:
 - Ronald Pereira
 - Fabrício Murai
-tags:
-- '""'
+tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-11T12:54:05-03:00
+lastmod: 2021-08-11T15:11:28-03:00
 featured: false
 draft: false
 
@@ -30,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T15:54:04.950270Z'
+publishDate: '2021-08-11T18:11:28.490920Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Anais do X Brazilian Workshop on Social Network Analysis and Mining*'
 url_pdf: https://sol.sbc.org.br/index.php/brasnam/article/view/16141
+doi: 10.5753/brasnam.2021.16141
 ---
