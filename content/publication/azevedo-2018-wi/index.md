@@ -17,7 +17,7 @@ tags:
   A/B testing;analytical error bounds;Crámer-Rao theorem;response models"'
 categories: []
 date: '2018-12-01'
-lastmod: 2021-08-11T10:16:52-03:00
+lastmod: 2021-08-11T12:54:07-03:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T13:16:51.790225Z'
+publishDate: '2021-08-11T15:54:07.481137Z'
 publication_types:
 - '1'
 abstract: ''

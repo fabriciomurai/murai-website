@@ -17,7 +17,7 @@ tags:
 - '"random walks"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-08-11T10:16:35-03:00
+lastmod: 2021-08-11T12:54:04-03:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T13:16:34.656584Z'
+publishDate: '2021-08-11T15:54:04.231147Z'
 publication_types:
 - '2'
 abstract: ''
