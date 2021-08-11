@@ -3,6 +3,7 @@ widget: blank
 widget_id: teaching
 headless: true
 weight: 0
+title: Teaching
 active: true
 design:
   columns: "2"
