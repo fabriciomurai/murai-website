@@ -36,7 +36,7 @@ directions: ICEx/DCC Building, Office 4329
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+# appointment_url: 'https://calendly.com'
 # contact_links:
 #   - icon: twitter
 #     icon_pack: fab
@@ -108,7 +108,7 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
