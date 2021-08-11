@@ -1,7 +1,7 @@
 ---
 title: Fabricio Murai
 role: Associate Professor of CS
-avatar_filename: https://www.dcc.ufmg.br/dcc/sites/default/files/public/professores/murai_site.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
