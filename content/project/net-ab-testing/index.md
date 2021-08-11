@@ -1,10 +1,12 @@
 ---
-title: Randomized Experiments in Social Networks v2
+title: Randomized Experiments in Social Networks
 summary: Novel algorithms and models for network A/B testing.
 tags:
   - network A/B testing
-  - social networks
+  - online social networks
   - network bucket testing
+  - linkedin
+  - graphs
 date: 2016-04-27T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
