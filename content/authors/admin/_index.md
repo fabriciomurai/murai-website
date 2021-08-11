@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/in/fabricio-murai-7848b887/
   - display:
       header: false
-    link: youtube.com/c/fabriciomurai
+    link: https://youtube.com/c/fabriciomurai
     icon_pack: fab
     icon: youtube
 organizations:
