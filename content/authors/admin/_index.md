@@ -30,7 +30,7 @@ social:
     icon: youtube
 organizations:
   - name: Universidade Federal de Minas Gerais
-    url: https://ufmg.br
+    url: http://ufmg.br
 education:
   courses:
     - course: PhD in Computer Science
@@ -45,7 +45,7 @@ education:
     - course: BSc in Computer Science (magna cum laude)
       institution: Universidade Federal do Rio de Janeiro
       year: 2007
-email: fabriciomurai@gmail.com
+email: murai@dcc.ufmg.br
 superuser: true
 highlight_name: false
 ---
