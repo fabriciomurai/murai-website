@@ -1,6 +1,6 @@
 ---
 title: Davi Pedrosa de Aguiar
-role: Engineer at Treinus
+role: Software Engineer at Treinus
 avatar_filename: avatar.jpg
 social:
   - display:
