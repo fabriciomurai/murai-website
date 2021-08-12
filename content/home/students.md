@@ -13,34 +13,42 @@ design:
     color: ""
 ---
 Former MSc Students:
-* **Davi Pedrosa de Aguiar (2021)**  
-  *Dissertation:* Predicting Heart Rate During Physical Activities Using Artificial Neural Networks  
-  Software Engineer at [Treinus](http://www.treinus.com.br)
-
-* ** Bárbara Silveira Fraga (2019)**  
-  *Dissertation:* Characterizing and Predicting User Emotional Tone in Mental Health Disorder Online Communities  
-  Data Scientist at [A3Data](https://a3data.com.br/) and Lecturer for MBA courses at [PUC-Minas](https://www.pucminas.com.br)
-
-* **Rafael Sales Medina (2019)**  
-  *Dissertation:* Impact of Online Social Communities in Language Learning  
-  Data Scientist at [Cadence Design Systems](https://www.cadence.com)
-
-* **Daniel Mello Prado (2021)**  
+* **[Daniel Mello Prado](https://www.linkedin.com/in/daniel-mello-42a49a143/) (2021)**  
   *Dissertation*: Generative Adversarial Networks For Hierarchical Clustering  
   Applying for Doctorate Program abroad 
 
+* **[Davi Pedrosa de Aguiar](https://www.linkedin.com/in/davi-pedrosa-de-aguiar) (2021)**  
+  *Dissertation:* Predicting Heart Rate During Physical Activities Using Artificial Neural Networks  
+  Software Engineer at [Treinus](http://www.treinus.com.br)
+
+* **[Bárbara Silveira Fraga](https://www.linkedin.com/in/barbarasilveiraf/) (2019)**  
+  *Dissertation:* Characterizing and Predicting User Emotional Tone in Mental Health Disorder Online Communities  
+  Data Science - Tech Lead at [A3Data](https://a3data.com.br/) and Lecturer for MBA courses at [PUC-Minas](https://www.pucminas.com.br)
+
+* **[Rafael Sales Medina Ferreira](https://www.linkedin.com/in/rafaelsmedina/) (2019)**  
+  *Dissertation:* Impact of Online Social Communities in Language Learning  
+  Data Science - Software Engineer at [Cadence Design Systems](https://www.cadence.com)
+
+
+
 Current MSc Students:
-* **Ronald Davi Rodrigues Pereira**  
-  Data Scientist at iFood
-* **Jackson de Faria Júnior**  
-* **Leandro Augusto Lacerda Campos**  
-  Principal Researcher at InterMind ([Inter Bank](https://www.bancointer.com.br)'s Applied AI Research Lab)
-* **Bruno Guilherme Silva Gomes**  
+* **[Ronald Davi Rodrigues Pereira](https://www.linkedin.com/in/ronald-pereira-6858a6b5/)**  
+  Senior Data Scientist at iFood
+* **[Leandro Augusto Lacerda Campos](https://www.linkedin.com/in/leandrolcampos/)**  
+  First AI Researcher at [Inter Bank](https://www.bancointer.com.br)
+* **[Bruno Guilherme Silva Gomes](https://www.linkedin.com/in/bruno-gomes-53908a17a/)**  
    ??? at [Rocketmat](https://www.rocketmat.com/)
-* **Gustavo Germano Silva**
-* **Vinicius de Oliveira Silva**
+* **[Gustavo Germano Silva](https://www.linkedin.com/in/gustavo-germano/)**  
+Machine Learning Engineer at [Kunumi](https://www.kunumi.com)
+* **[Vinicius de Oliveira Silva](https://www.linkedin.com/in/silva-vinicius/)**  
+Junior Data Scientist at [BigData](https://bigdata.com.br/)
+* **Jackson de Faria Júnior**  
+??? at [Fiocruz](https://portal.fiocruz.br)
+
 
 
 Current Undergrad Students:
-* Henrique Soares Assumpção e Silva
-* Diogo Oliveira Neiss
+* [Henrique Soares Assumpção e Silva](https://www.linkedin.com/in/henrysilvacs/)  
+AI R&D - Developer at [PlusThree]() 
+* [Diogo Oliveira Neiss](https://www.linkedin.com/in/diogo-neiss/)  
+Software Engineer at [Vaivoa](https://vaivoa.com/)
