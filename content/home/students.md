@@ -1,10 +1,10 @@
 ---
-widget: blank
+widget: page
 widget_id: students
 headless: true
 weight: 0
 title: Current/Former Students
-active: true
+active: false
 design:
   columns: "2"
   background:
@@ -37,13 +37,14 @@ Current MSc Students:
 * **[Leandro Augusto Lacerda Campos](https://www.linkedin.com/in/leandrolcampos/)**  
   First AI Researcher at [Inter Bank](https://www.bancointer.com.br)
 * **[Bruno Guilherme Silva Gomes](https://www.linkedin.com/in/bruno-gomes-53908a17a/)**  
-   ??? at [Rocketmat](https://www.rocketmat.com/)
+Machine Learning Research Engineer at [Rocketmat](https://www.rocketmat.com/)
 * **[Gustavo Germano Silva](https://www.linkedin.com/in/gustavo-germano/)**  
 Machine Learning Engineer at [Kunumi](https://www.kunumi.com)
 * **[Vinicius de Oliveira Silva](https://www.linkedin.com/in/silva-vinicius/)**  
 Junior Data Scientist at [BigData](https://bigdata.com.br/)
 * **Jackson de Faria Júnior**  
-??? at [Fiocruz](https://portal.fiocruz.br)
+Research Assistant at [Fiocruz]
+(https://portal.fiocruz.br)
 
 
 
