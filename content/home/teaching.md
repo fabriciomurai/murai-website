@@ -4,7 +4,7 @@ widget_id: teaching
 headless: true
 weight: 0
 title: Teaching
-active: true
+active: false
 design:
   columns: "2"
   background:
@@ -15,11 +15,11 @@ design:
 In recent years, I have taught in the following courses:
 
 Graduate-level:
-* **Deep Learning Algorithms:** Fall{2019,2021}
-* **Model Thinking:** Fall{2017,2018,2019}
-* **Seminar on Disinformation and Hate Speech in Digital Platforms:** Fall2021
-* **Seminar on Machine Learning for Graphs:** Spring2019
+* **Deep Learning Algorithms:** Fall 2019, Fall 2021
+* **Model Thinking:** Fall 2017, Fall 2018, Fall 2019
+* **Seminar on Disinformation and Hate Speech in Digital Platforms:** Fall 2021
+* **Seminar on Machine Learning for Graphs:** Spring 2019
 
 Undergraduate-level:
-* **Computational Linear Algebra:** {Spring,Fall}{2019,2020,2021}
-* **Numerical Analysis:** {Spring,Fall}{2017,2018,2020}, Spring2021
+* **Computational Linear Algebra:** Spring/Fall 2019, Spring/Fall 2020, Spring/Fall 2021 
+* **Numerical Analysis:** Spring/Fall 2017, Spring/Fall 2018, Spring/Fall 2020, Spring 2021
