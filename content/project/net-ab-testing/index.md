@@ -7,6 +7,7 @@ authors:
   - Francisco Galuppo Azevedo
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
+external_link: " "
 url_slides: ""
 title: [2018-2020] Randomized Experiments in Social Networks
 tags:
