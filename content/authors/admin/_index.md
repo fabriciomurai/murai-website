@@ -41,7 +41,7 @@ education:
       year: 2014
     - course: MSc in Systems and Comp. Engineering
       institution: COPPE - Universidade Federal do Rio de Janeiro
-      year: 2009
+      year: 2011
     - course: BSc in Computer Science
       institution: Universidade Federal do Rio de Janeiro
       year: 2007
