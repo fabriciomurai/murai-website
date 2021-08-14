@@ -16,11 +16,6 @@ tags:
   - network bucket testing
   - linkedin
   - graphs
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/fabriciomurai
 image:
   caption: Parallel epsilon-net
   focal_point: Smart
