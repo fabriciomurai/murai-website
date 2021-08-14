@@ -1,5 +1,10 @@
 ---
 title: "[2019-2021] Next Generation Graph Embeddings"
+tags:
+  - GNNs
+  - graph neural networks
+  - invariances
+  - graphs
 subtitle: ""
 date: 2021-08-14T14:00:15.254Z
 summary: _A research collaboration with Prof. Bruno Ribeiro (Purdue University)
