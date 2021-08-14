@@ -4,7 +4,7 @@ widget_id: students
 headless: true
 weight: 0
 title: Current/Former Students
-active: false
+active: true
 design:
   columns: "2"
   background:
