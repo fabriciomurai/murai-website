@@ -9,7 +9,6 @@ summary: ATMOSPHERE aims to design and implement a framework and platform
   trustworthy, cloud-enabled applications.
 draft: false
 featured: false
-external_link: " "
 links:
   - url: https://www.atmosphere-eubrazil.eu/
 image:
