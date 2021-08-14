@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: pages
 widget_id: students
 headless: true
 weight: 0
