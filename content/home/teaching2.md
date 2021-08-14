@@ -1,5 +1,5 @@
 ---
-widget: page
+widget: pages
 widget_id: teaching2
 headless: true
 weight: 10
@@ -10,5 +10,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    
+    
 ---
 test
