@@ -3,6 +3,7 @@ widget: pages
 widget_id: teaching2
 headless: true
 weight: 10
+title: Teaching
 active: true
 design:
   columns: "2"
