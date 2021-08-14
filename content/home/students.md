@@ -12,6 +12,26 @@ design:
     image_darken: 0
     color: ""
 ---
+Current MSc Students:
+* **[Ronald Davi Rodrigues Pereira](https://www.linkedin.com/in/ronald-pereira-6858a6b5/)**  
+  Senior Data Scientist at iFood
+* **[Leandro Augusto Lacerda Campos](https://www.linkedin.com/in/leandrolcampos/)**  
+  First AI Researcher at [Inter Bank](https://www.bancointer.com.br)
+* **[Bruno Guilherme Silva Gomes](https://www.linkedin.com/in/bruno-gomes-53908a17a/)**  
+Machine Learning Research Engineer at [Rocketmat](https://www.rocketmat.com/)
+* **[Gustavo Germano Silva](https://www.linkedin.com/in/gustavo-germano/)**  
+Machine Learning Engineer at [Kunumi](https://www.kunumi.com)
+* **[Vinicius de Oliveira Silva](https://www.linkedin.com/in/silva-vinicius/)**  
+Junior Data Scientist at [BigData](https://bigdata.com.br/)
+* **Jackson de Faria Júnior**  
+Research Assistant at [Fiocruz](https://portal.fiocruz.br)
+
+Current Undergrad Students (on REU program):
+* [Henrique Soares Assumpção e Silva](https://www.linkedin.com/in/henrysilvacs/)  
+AI R&D - Developer at [PlusThree]() 
+* [Diogo Oliveira Neiss](https://www.linkedin.com/in/diogo-neiss/)  
+Software Engineer at [Vaivoa](https://vaivoa.com/)
+
 Former MSc Students:
 * **[Daniel Mello Prado](https://www.linkedin.com/in/daniel-mello-42a49a143/) (2021)**  
   *Dissertation*: Generative Adversarial Networks For Hierarchical Clustering  
@@ -31,25 +51,4 @@ Former MSc Students:
 
 
 
-Current MSc Students:
-* **[Ronald Davi Rodrigues Pereira](https://www.linkedin.com/in/ronald-pereira-6858a6b5/)**  
-  Senior Data Scientist at iFood
-* **[Leandro Augusto Lacerda Campos](https://www.linkedin.com/in/leandrolcampos/)**  
-  First AI Researcher at [Inter Bank](https://www.bancointer.com.br)
-* **[Bruno Guilherme Silva Gomes](https://www.linkedin.com/in/bruno-gomes-53908a17a/)**  
-Machine Learning Research Engineer at [Rocketmat](https://www.rocketmat.com/)
-* **[Gustavo Germano Silva](https://www.linkedin.com/in/gustavo-germano/)**  
-Machine Learning Engineer at [Kunumi](https://www.kunumi.com)
-* **[Vinicius de Oliveira Silva](https://www.linkedin.com/in/silva-vinicius/)**  
-Junior Data Scientist at [BigData](https://bigdata.com.br/)
-* **Jackson de Faria Júnior**  
-Research Assistant at [Fiocruz]
-(https://portal.fiocruz.br)
 
-
-
-Current Undergrad Students:
-* [Henrique Soares Assumpção e Silva](https://www.linkedin.com/in/henrysilvacs/)  
-AI R&D - Developer at [PlusThree]() 
-* [Diogo Oliveira Neiss](https://www.linkedin.com/in/diogo-neiss/)  
-Software Engineer at [Vaivoa](https://vaivoa.com/)
