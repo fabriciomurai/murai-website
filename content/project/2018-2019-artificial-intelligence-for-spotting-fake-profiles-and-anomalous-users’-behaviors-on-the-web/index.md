@@ -4,7 +4,7 @@ title: "[2018-2019] Artificial Intelligence for Spotting Fake Profiles and
 date: 2021-08-14T15:05:32.176Z
 summary: >-
   _A joint internationalization project between UFMG and
-  (PoliTO)[https://www.telematica.polito.it/] funded by Compagnia di San
+  [PoliTO](https://www.telematica.polito.it/) funded by Compagnia di San
   Paolo_.  
 
   The key role of the web in our society requires mechanisms to guarantee its legitimate. Such mechanisms demand novel methodologies to cope with complex and multi-dimensional big data, for which ground truth is inherently lacking. We will build models that combine information from multiple sources (e.g., online social networks and network measurements) to uncover fake profiles and suspicious activities, enhancing the legitimate use of the web.
