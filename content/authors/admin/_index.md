@@ -51,4 +51,4 @@ highlight_name: false
 ---
 Fabricio Murai is an Associate Professor in the Department of Computer Science at the Universidade Federal de Minas Gerais, Brazil. His research lies in the application of mathematical modeling, statistics and machine learning to computer, informational and social networks. He has published in top scientific journals such as IEEE Journal of Selected Areas in Communications, Data Mining and Knowledge Discovery and ACM TKDD. He serves as a TPC member for the IEEE INFOCOM, ACM SIGKDD and WWW.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_murai.pdf" "newtab" >}}CV{{< /staticref >}}.
