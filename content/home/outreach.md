@@ -7,9 +7,6 @@ title: Outreach
 active: true
 design:
   columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
 ---
 Residency Programs:
 * **Usiminas: Techonological Residency in Data Science** (2021-2022)  
