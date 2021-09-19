@@ -7,10 +7,6 @@ title: Current/Former Students
 active: true
 design:
   columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
-    color: ""
 ---
 Current MSc Students:
 * **[Ronald Davi Rodrigues Pereira](https://www.linkedin.com/in/ronald-pereira-6858a6b5/)**  
