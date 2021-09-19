@@ -11,10 +11,10 @@ design:
 In recent years, I have taught in the following courses:
 
 Graduate-level:
-* **Deep Learning Algorithms:** 2019/2, (2021/2)[https://deep-ufmg.github.io/]
-* **Model Thinking:** 2017/2, 2018/2, (2019/2)[https://drive.google.com/drive/folders/0B_VgRZWkTtUlOFhhbTNMa1RuazQ?resourcekey=0-Wby7tdkOnEUwmls2PIkrGw&usp=sharing]
+* **Deep Learning Algorithms:** 2019/2, [2021/2](https://deep-ufmg.github.io/)
+* **Model Thinking:** 2017/2, 2018/2, [2019/2](https://drive.google.com/drive/folders/0B_VgRZWkTtUlOFhhbTNMa1RuazQ?resourcekey=0-Wby7tdkOnEUwmls2PIkrGw&usp=sharing)
 * **Seminar on Disinformation and Hate Speech in Digital Platforms:** 2021/2
-* **Seminar on Machine Learning for Graphs:** (2019/2)[https://drive.google.com/drive/folders/1wVgMhGAlY8FNexH5KsEWYioQLxpTfOfk?usp=sharing]
+* **Seminar on Machine Learning for Graphs:** [2019/2](https://drive.google.com/drive/folders/1wVgMhGAlY8FNexH5KsEWYioQLxpTfOfk?usp=sharing)
 
 Undergraduate-level:
 * **Computational Linear Algebra:** [2019/1](https://github.com/fabriciomurai/teaching/tree/master/alc/2019.1), 2019/2, 2020/1, 2020/2, 2021/1, (2021/2)[https://www.youtube.com/watch?v=ZQMZhVpm5CU&list=PL3mUvwuFfLSVOSs5kZlUR_qcM30Dbg6t_] 
