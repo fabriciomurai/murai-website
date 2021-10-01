@@ -1,5 +1,5 @@
 ---
-title: Fabricio Murai
+title: Fabricio Murai (he/him)
 role: Associate Professor of CS
 avatar_filename: avatar.jpg
 bio: ""
