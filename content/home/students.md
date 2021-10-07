@@ -9,6 +9,7 @@ design:
   columns: "2"
 ---
 Current MSc Students:
+* **[Amanda Fagundes de Paula](https://www.linkedin.com/in/amanda-fagundes-paula/)**
 * **[Ronald Davi Rodrigues Pereira](https://www.linkedin.com/in/ronald-pereira-6858a6b5/)**  
   Senior Data Scientist at iFood
 * **[Leandro Augusto Lacerda Campos](https://www.linkedin.com/in/leandrolcampos/)**  
