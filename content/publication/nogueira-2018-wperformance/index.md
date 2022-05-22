@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2018-07-01'
-lastmod: 2021-08-11T15:11:21-03:00
+lastmod: 2022-05-22T18:16:26-03:00
 featured: false
 draft: false
 
@@ -31,12 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T18:11:21.496476Z'
+publishDate: '2022-05-22T21:16:26.405683Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Anais do Workshop em Desempenho de Sistemas Computacionais e de Comunicação
-  (WPerformance)*'
+publication: '*Anais do XVII Workshop em Desempenho de Sistemas Computacionais e de
+  Comunicação (WPerformance)*'
 url_pdf: https://sol.sbc.org.br/index.php/wperformance/article/view/3329
 doi: 10.5753/wperformance.2018.3329
 ---

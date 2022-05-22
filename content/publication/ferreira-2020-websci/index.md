@@ -22,7 +22,7 @@ tags:
 - '"Politics."'
 categories: []
 date: '2020-01-01'
-lastmod: 2021-08-11T15:11:27-03:00
+lastmod: 2022-05-22T18:16:31-03:00
 featured: false
 draft: false
 
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-11T18:11:27.000925Z'
+publishDate: '2022-05-22T21:16:31.371141Z'
 publication_types:
 - '1'
 abstract: "Online Social Networks (OSNs) allow users to generate and consume content\
