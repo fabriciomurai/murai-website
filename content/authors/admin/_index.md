@@ -1,5 +1,5 @@
 ---
-role: Associate Professor of CS
+role: Assistant Professor of CS & Data Science
 avatar_filename: avatar3.jpg
 bio: ""
 interests:
