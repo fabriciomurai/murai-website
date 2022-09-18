@@ -1,7 +1,6 @@
 ---
-title: Fabricio Murai (he/him)
 role: Associate Professor of CS
-avatar_filename: avatar.jpg
+avatar_filename: avatar3.jpg
 bio: ""
 interests:
   - Artificial Intelligence
@@ -29,8 +28,8 @@ social:
     icon_pack: fab
     icon: youtube
 organizations:
-  - name: Universidade Federal de Minas Gerais
-    url: http://ufmg.br
+  - name: Worcester Polytechnic Institute
+    url: http://www.wpi.edu
 education:
   courses:
     - course: PhD in Computer Science
@@ -45,10 +44,11 @@ education:
     - course: BSc in Computer Science
       institution: Universidade Federal do Rio de Janeiro
       year: 2007
-email: murai@dcc.ufmg.br
 superuser: true
 highlight_name: false
+title: Fabricio Murai (he/him)
+email: fmurai@wpi.edu
 ---
-Fabricio Murai is an Associate Professor in the Department of Computer Science at the Universidade Federal de Minas Gerais, Brazil. His research lies in the application of mathematical modeling, statistics and machine learning to computer, informational and social networks. He has published in top scientific journals such as IEEE Journal of Selected Areas in Communications, Data Mining and Knowledge Discovery and ACM TKDD. He serves as a TPC member for the IEEE INFOCOM, ACM SIGKDD and WWW.
+Fabricio Murai is an Assistant Professor in Computer Science and Data Science at the Worcester Polytechnic Institute (WPI). His research lies in the application of mathematical modeling, statistics and machine learning to computer, informational and social networks. He has published in top scientific journals such as IEEE Journal of Selected Areas in Communications, Data Mining and Knowledge Discovery and ACM TKDD. He serves as a TPC member for the IEEE INFOCOM, ACM SIGKDD and WWW.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_murai.pdf" "newtab" >}}CV{{< /staticref >}}.
