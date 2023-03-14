@@ -5,7 +5,7 @@ summary: In this project, we will collect, model, and analyze code development
   repositories for pattern mining using graph and machine learning techniques.
 draft: false
 featured: false
-external_link: " "
+external_link: ""
 links:
   - url: https://eprojects.wpi.edu/group/34356
     name: WPI e-projects
