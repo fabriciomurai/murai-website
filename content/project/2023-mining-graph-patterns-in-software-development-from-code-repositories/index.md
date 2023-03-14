@@ -14,6 +14,8 @@ image:
   focal_point: BottomLeft
   preview_only: false
 ---
+<!--StartFragment-->
+
 **Collaborators**: [Prof. Carlos H. G. Ferreira (UFOP - Brazil)](https://scholar.google.com/citations?user=ILpkjHAAAAAJ)
 
 In this project, we will collect, model, and analyze code development repositories for pattern mining using graph and machine learning techniques. 
@@ -24,3 +26,5 @@ Please, see some of our research articles:
 * <https://www.sciencedirect.com/science/article/pii/S2468696421000379>
 
 **Student Requirements**: Participants should have experience with Python including visualization libraries. Knowledge of network modeling libraries (e.g., networkx) is a plus.
+
+<!--EndFragment-->
