@@ -11,7 +11,7 @@ links:
     name: WPI e-projects
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: BottomLeft
   preview_only: false
 ---
 **Collaborators**: [Prof. Carlos H. G. Ferreira (UFOP - Brazil)](https://scholar.google.com/citations?user=ILpkjHAAAAAJ)
