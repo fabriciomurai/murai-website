@@ -2,7 +2,7 @@
 widget: pages
 widget_id: outreach
 headless: true
-weight: 90
+weight: 0
 title: Outreach
 active: true
 design:
