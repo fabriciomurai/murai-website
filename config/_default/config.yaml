@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fabricio Murai # Website name
-baseurl: 'http://fmurai.netlify.app/' # Website URL
+# baseurl: 'http://fmurai.netlify.app/' # Website URL
+baseurl: 'http://users.wpi.edu/~fmurai/' # Website URL
 copyright: '© {year} Fabricio Murai' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -66,3 +67,9 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+      
